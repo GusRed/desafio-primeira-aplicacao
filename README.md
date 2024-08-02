@@ -1,7 +1,19 @@
 <h1>Primeiro Desafio Java</h1>
 
 <h2>📝 Sobre</h2>
-<p>Projeto desenvolvido durante a formação Java da Alura</p>
+<p>  Projeto desenvolvido durante a formação Java da Alura, onde pude demonstrar e aplicar meus conhecimentos em uma aplicação de um sistema bancário, utilizando: </p>
+<li>
+  Variáveis
+</li>
+<li>
+  Condicionais
+</li>
+<li>
+  Loops
+</li>
+<li>
+  Leitura de dados
+</li>
 
 <h2>🛠 Tecnologias</h2>
 <div>
